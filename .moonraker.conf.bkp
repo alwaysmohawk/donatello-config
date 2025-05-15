@@ -111,7 +111,7 @@ origin = https://github.com/mainsail-crew/moonraker-timelapse.git
 managed_services = klipper moonraker
 
 [timelapse]
-output_path = ~/timelapse/
+output_path = ~/printer_data/timelapse/
 frame_path = /tmp/timelapse/
 ffmpeg_binary_path = /usr/bin/ffmpeg
 
