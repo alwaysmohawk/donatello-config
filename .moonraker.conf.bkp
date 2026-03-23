@@ -23,10 +23,6 @@ trusted_clients =
 	FE80::/10
 	::1/128
 
-[spoolman]
-server = http://donatello.fastaf.ca:7912
-sync_rate = 5
-
 [octoprint_compat]
 
 [history]
